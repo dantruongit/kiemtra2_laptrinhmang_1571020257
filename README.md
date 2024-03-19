@@ -1,4 +1,6 @@
-# kiemtra2_laptrinhmang_1571020257
+# App chat phân quyền, gửi ảnh/file, login/register/logout sử dụng RMI
+
+## Demo : https://youtu.be/tXbvmFGHHo4
 
 - Đăng ký, đăng nhập qua RMI, Xem danh sách phòng
 - Tạo/Đặt mật khẩu/Xóa phòng/Tự giải phóng tài nguyên khi phòng bị xóa(file, ảnh, chat...), phân quyền (chủ phòng/thành viên)
